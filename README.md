@@ -14,7 +14,7 @@ Your Mission:
 - must pass the unit tests below
 - add tests for edge cases
 - be pragmatic about performance
-- read our values : `[careers.doctolib.fr/engineering/](https://about.doctolib.fr/careers/engineering.html)
+- read our values : [careers.doctolib.fr/engineering/](https://about.doctolib.fr/careers/engineering.html)
 - SQLite compatible
 - DO NOT host your project on public repositories!
   - Send us a Zip file containing your rails project, or your Javascript project without node_modules
